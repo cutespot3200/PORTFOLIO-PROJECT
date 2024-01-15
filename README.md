@@ -103,12 +103,3 @@ Finally, Start The Server.
 ```
 python manage.py runserver
 ```
-
-
-## Acknowledgements 🚀 
-
-<p>
-  <img src="https://res.cloudinary.com/zuri-team/image/upload/zuriboard/tenant-logo/wmqxdxt4skv05wsvc21o.png"
-       alt="ALX Logo"
-  >
-</p>
